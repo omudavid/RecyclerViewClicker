@@ -9,7 +9,7 @@ import kotlinx.android.synthetic.main.activity_main.*
 class MainActivity : AppCompatActivity(), Clicker {
     private val list:List<Mydata> = arrayListOf(
         Mydata(R.drawable.image1,"Omu David"),
-        Mydata(R.drawable.image1,"Timrin Timkwali",),
+        Mydata(R.drawable.image1,"Timring Timkwali",),
         Mydata(R.drawable.image1,"Olalekan Fagbemi"),
         Mydata(R.drawable.image1,"Chibuzor Osuala"),
         Mydata(R.drawable.image1,"Emmanuel Tutu"),
